@@ -1,0 +1,44 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+buildscript {
+    repositories {
+        jcenter()
+        maven {
+            url "https://plugins.gradle.org/m2/"
+        }
+        //google()
+        google()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:3.1.2'
+//        classpath "org.sonarsource.scanner.gradle:sonarqube-gradle-plugin:2.6.2"
+    }
+}
+
+allprojects {
+    repositories {
+        jcenter()
+        //google()
+        google()
+    }
+}
+
+//apply plugin: "org.sonarqube"
+
+//subprojects {
+//    sonarqube {
+//        properties {
+//            property "sonar.host.url", "http://localhost:9000/" //我本地SonarQube平台的配置
+//            property "sonar.projectName", Notes-master //projectname
+//            //property "sonar.projectKey", "MiNote" //projectkey
+//            property "sonar.language", "java" //语言
+//            property "sonar.sourceEncoding", "UTF-8" //编码
+//            //property "sonar.sources", android.sourceSets.main.java.srcDirs //源码，写这个就行
+//            //property "sonar.projectVersion", "1.0.0" //版本，随意
+//        }
+//    }
+//    task wrapper(type: Wrapper) {
+//        gradleVersion = '3.1.2'//我自己的gradle版本号，各位随意
+//        }
+//    }
+//
+//

@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Jan 06 16:41:02 GMT+08:00 2020
+0.baseType=DIRECTORY
+0.base=D\:\\Fight\\Study\\Android\\after-Notes-master\\Notes-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1

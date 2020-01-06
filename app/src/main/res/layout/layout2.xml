@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <!-- 定义一个文本框，使用绝对定位 -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="20dp"
+        android:layout_y="20dp"
+        android:text=" User：" />
+
+    <!-- 定义一个文本编辑框，使用绝对定位 -->
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="105dp"
+        android:layout_y="15dp"
+        android:width="250dp" />
+    <!-- 定义一个文本框，使用绝对定位 -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="20dp"
+        android:layout_y="80dp"
+        android:text=" Password：" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="105dp"
+        android:layout_y="75dp"
+        android:width="250dp"
+        android:password="true" />
+    <!-- 定义一个按钮，使用绝对定位 -->
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="130dp"
+        android:layout_y="135dp"
+        android:text=" Login " />
+</AbsoluteLayout>

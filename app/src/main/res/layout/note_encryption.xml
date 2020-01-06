@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/note_decryption"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:gravity="bottom">
+
+    <LinearLayout
+        android:id="@+id/linear_pass"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <include layout="@layout/new_password_head" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:background="#555555" />
+
+        <include layout="@layout/password_item" />
+
+    </LinearLayout>
+
+    <!-- 输入键盘 -->
+    <GridView
+        android:id="@+id/gv_keyboard"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/linear_pass"
+        android:layout_marginTop="80dp"
+        android:background="@android:color/black"
+        android:horizontalSpacing="0.5dp"
+        android:numColumns="3"
+        android:verticalSpacing="0.5dp" />
+</RelativeLayout>
