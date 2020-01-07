@@ -12,7 +12,7 @@ public class Note implements Serializable {
     private String createTime; //笔记创建时间
     private String title;  //   这里的title 指的是  笔记的第一行 一般都是纲要 用于显示纲要
     private String subContent; //这里的subContent指的是 笔记的第二行，用于反应除了用户的开头   相当于内容的缩写
-    private ArrayList<Path> mPaths = new ArrayList<Path>();
+    private static ArrayList<Path> mPaths = new ArrayList<Path>();
 
 
     public int getId() {

@@ -45,7 +45,24 @@ import java.util.Calendar;
 import java.util.LinkedList;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-
+import android.app.Activity;
+import android.content.Context;
+import android.graphics.Bitmap;
+import android.graphics.Bitmap.Config;
+import android.graphics.Canvas;
+import android.graphics.Color;
+import android.graphics.Paint;
+import android.graphics.Path;
+import android.graphics.PorterDuff;
+import android.graphics.PorterDuffXfermode;
+import android.os.Bundle;
+import android.util.DisplayMetrics;
+import android.view.MotionEvent;
+import android.view.View;
+import android.view.View.OnClickListener;
+import android.view.ViewGroup.LayoutParams;
+import android.widget.Button;
+import android.widget.LinearLayout;
 
 public class NoteDrawActivity extends AppCompatActivity {
 
@@ -56,14 +73,20 @@ public class NoteDrawActivity extends AppCompatActivity {
     private PendingIntent pi;
     private long date1;
     private NoteDraw drawCanvas;
-
+    private MyView myView;
+    private int Pen = 1;
+    private int Eraser = 2;
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.note_draw);
 
-        drawCanvas = findViewById(R.id.note_draw);
 
+
+
+        myView = this.findViewById(R.id.my_view);
+    //    drawCanvas = findViewById(R.id.note_draw);
+    //    drawCanvas.SetPaint();
         initData();
 
   /*
@@ -85,6 +108,7 @@ public class NoteDrawActivity extends AppCompatActivity {
         textView.setTextSize(WordSize);
 
         String content = note.getContent();
+
 
         /*
         if(content.contains("##")){
@@ -113,21 +137,13 @@ public class NoteDrawActivity extends AppCompatActivity {
         //String str = textView.getText().toString();
         //Log.d("textView", "textView" + str);
 
+
         FloatingActionButton btn_note_complete = findViewById(R.id.button_note_edit);
         btn_note_complete.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                //跳转到新建页面，编辑意味着 删除原来的， 新建一个新的，只是新的这个的content继承自旧的。
-                Intent intent = new Intent(NoteDrawActivity.this, NoteNewActivity.class);
-                //告诉 是编辑页面 editText需要继承旧的东西
-                intent.putExtra("NewOrEdit","Edit");
-                Bundle bundle = new Bundle();
-                bundle.putSerializable("OldNote",note);
-                intent.putExtra("data",bundle);
-                intent.putExtra("groupName", note.getGroupName());
-                startActivity(intent);
-                finish();
-                //editNote();
+
+                myView.setMode(Pen);
             }
         });
 
@@ -136,9 +152,8 @@ public class NoteDrawActivity extends AppCompatActivity {
         btn_note_draw.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                note.setmPaths(drawCanvas.getmPaths());
-                AddNote();
 
+                myView.setMode(Eraser);
             }
         });
 
@@ -156,7 +171,7 @@ public class NoteDrawActivity extends AppCompatActivity {
         SharedPreferences prefs = getSharedPreferences("Setting",MODE_PRIVATE);
         wordSizePrefs = prefs.getString("WordSize","正常");
 
-        drawCanvas.setmPaths(note.getmPaths());
+     //   drawCanvas.setmPaths(note.getmPaths());
     }
 
     private void editNote(){
@@ -168,9 +183,9 @@ public class NoteDrawActivity extends AppCompatActivity {
         //当用户确定完成编辑之后， 意味着将旧的便签删除
         NoteDbHelpBusiness dbBus = NoteDbHelpBusiness.getInstance(this);
         Note oldNote = note;
-        if(oldNote != null){
-            dbBus.deleteNote(oldNote);
-        }
+   //     if(oldNote != null){
+     //       dbBus.deleteNote(oldNote);
+     //   }
         dbBus.addNote(note);
     }
 
@@ -275,7 +290,6 @@ public class NoteDrawActivity extends AppCompatActivity {
         alarmManager.set(AlarmManager.RTC_WAKEUP, date1, pi);
         Log.d("时间","时间是" + date1);
 
-
         /*
         Calendar currentTime = Calendar.getInstance();
         new TimePickerDialog(NoteActivity.this, 0, new TimePickerDialog.OnTimeSetListener() {
@@ -293,8 +307,6 @@ public class NoteDrawActivity extends AppCompatActivity {
         }, currentTime.get(Calendar.HOUR_OF_DAY), currentTime.get(Calendar.MINUTE), false).show();
          */
     }
-
-
 
 
     /*  在工具类的 ContentToSpannableString实现了，方便复用

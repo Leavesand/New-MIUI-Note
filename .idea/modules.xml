@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/New-MIUI-Note.iml" filepath="$PROJECT_DIR$/New-MIUI-Note.iml" />
-      <module fileurl="file://$PROJECT_DIR$/StarNote.iml" filepath="$PROJECT_DIR$/StarNote.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

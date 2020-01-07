@@ -1,4 +1,4 @@
-#Tue Jan 07 15:43:59 GMT+08:00 2020
-base.0=D\:\\Fight\\Study\\Android\\StarNote\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+#Tue Jan 07 23:11:59 GMT+08:00 2020
+base.0=D\:\\Fight\\Study\\Android\\_Note\\New-MIUI-Note\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 path.0=classes.dex
 renamed.0=classes.dex
