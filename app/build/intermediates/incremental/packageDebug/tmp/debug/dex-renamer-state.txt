@@ -1,4 +1,4 @@
-#Mon Jan 06 16:41:02 GMT+08:00 2020
-base.0=D\:\\Fight\\Study\\Android\\after-Notes-master\\Notes-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+#Tue Jan 07 15:43:59 GMT+08:00 2020
+base.0=D\:\\Fight\\Study\\Android\\StarNote\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 path.0=classes.dex
 renamed.0=classes.dex

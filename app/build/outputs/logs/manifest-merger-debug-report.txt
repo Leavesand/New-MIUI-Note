@@ -1,231 +1,280 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:18:1-150:12
-INJECTED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:18:1-150:12
-INJECTED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:18:1-150:12
-INJECTED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:18:1-150:12
-INJECTED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:18:1-150:12
-INJECTED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:18:1-150:12
-INJECTED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:18:1-150:12
+ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:2:1-61:12
+MERGED from [com.zhihu.android:matisse:0.5.2-beta4] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\matisse-0.5.2-beta4.aar\bc9ec67a87d0064c733742a3142e89c1\AndroidManifest.xml:17:1-33:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\09ae99e153a9da2a1e0ae43d3897426d\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\0813133cc3d28f39b74212325fc6e5d9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\c7e71be3d02812f4957581c7eb1e7052\AndroidManifest.xml:2:1-12:12
+MERGED from [com.simple:spiderman:1.0.2] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\spiderman-1.0.2.aar\cb2ea48ab71e38a771755475a1c924da\AndroidManifest.xml:2:1-19:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\5aafa75d72cca229cdb13af0e9332231\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\dd65e19d76dc9bbf7d3f2bfe151ee3f9\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\465705124080506488a75bdf77ff2fd8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\a62c774a1488488e18c3775271ef6b5b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\81186006cf9af63be4d39cb7e87ffe09\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\f4d13a454cf156ee5fab29e3dea073bb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\39a25453804e74edad2c50343d21ce8f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\ee825d51cba78f427455053467a54878\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\46807782f0701b69e705ca420e4e0fde\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\5caeb695349d405a42a6329bc431eec3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\0f26533d213360ae997a5b07226fbc37\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\da64150da7ff5ecbe2670462414647a1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\819b75d01048a64c8f40b6d9b8d6e1d3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\2bc1e2c82112e483e589a96bb46cb50e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\668c02733edf777b3d6ee3837340990a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\f9a7aafd6bf1643f8fe4355274ef12ef\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\68505fb012d0b9a050f4040206f4f832\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\76e01ff1905887d36f547815772b967b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\8e3bc8dc907651ebf206f2ed78a37ccf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\f3f91b0c685f86eceb4e96efb757a3cb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\6cb271ee0b8934a3cea2981f5eca8296\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\dfe18500a4523054c8bb442344e93e95\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\461f58d3f5ad0ecd847d5a5aec208713\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\58973315b0b9f16f7b267aa07f9b8ab3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\5aafdc2bea69ceca54fb549c9d127432\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\1d365c954a1df8748960d796a0d580ec\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\fe5961d915dee44e1558b006bf73e125\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\655b7a16967334fb793f1772c01b3fcb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\f450fce26cdd528b840b8396b72f7abb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\2ed0f31074ea8872cb9cadc53a6be27b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\1ee1c86e9b9d9e673c9bdaa56c8caae4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\6929b8b55381c148ee318bdd16a4afd7\AndroidManifest.xml:17:1-22:12
+MERGED from [it.sephiroth.android.library.imagezoom:library:1.0.4] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\library-1.0.4.aar\59aa7881ba2b002b323164b2f98bd8f8\AndroidManifest.xml:1:106-7:12
+MERGED from [it.sephiroth.android.library.easing:library:1.0.2] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\library-1.0.2.aar\e1c6ec3c1b059f725ace67e99a54f95c\AndroidManifest.xml:1:116-8:12
+INJECTED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:2:1-61:12
 	package
-		ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:19:5-31
-		INJECTED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:21:5-30
-		INJECTED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml
-	xmlns:android
-		ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:18:11-69
+		INJECTED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml
+		ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:2:1-61:12
+		INJECTED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml
 	android:versionCode
-		ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:20:5-28
-		INJECTED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml
-uses-sdk
-ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:23:5-44
-INJECTED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:23:5-44
-INJECTED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:23:5-44
-INJECTED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:23:5-44
-INJECTED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:23:5-44
-	android:targetSdkVersion
-		INJECTED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml
-		ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:23:5-44
-		INJECTED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml
-	android:minSdkVersion
-		ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:23:15-41
-		INJECTED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml
+		ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:2:1-61:12
+		INJECTED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:25:5-81
+ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:7:5-80
+MERGED from [com.zhihu.android:matisse:0.5.2-beta4] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\matisse-0.5.2-beta4.aar\bc9ec67a87d0064c733742a3142e89c1\AndroidManifest.xml:24:5-81
+MERGED from [com.zhihu.android:matisse:0.5.2-beta4] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\matisse-0.5.2-beta4.aar\bc9ec67a87d0064c733742a3142e89c1\AndroidManifest.xml:24:5-81
 	android:name
-		ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:25:22-78
-uses-permission#com.android.launcher.permission.INSTALL_SHORTCUT
-ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:26:5-88
+		ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:8:5-79
+MERGED from [com.zhihu.android:matisse:0.5.2-beta4] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\matisse-0.5.2-beta4.aar\bc9ec67a87d0064c733742a3142e89c1\AndroidManifest.xml:25:5-80
+MERGED from [com.zhihu.android:matisse:0.5.2-beta4] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\matisse-0.5.2-beta4.aar\bc9ec67a87d0064c733742a3142e89c1\AndroidManifest.xml:25:5-80
 	android:name
-		ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:26:22-85
-uses-permission#android.permission.INTERNET
-ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:27:5-67
+		ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:8:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:9:5-70
 	android:name
-		ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:27:22-64
-uses-permission#android.permission.READ_CONTACTS
-ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:28:5-72
-	android:name
-		ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:28:22-69
-uses-permission#android.permission.MANAGE_ACCOUNTS
-ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:29:5-74
-	android:name
-		ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:29:22-71
-uses-permission#android.permission.AUTHENTICATE_ACCOUNTS
-ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:30:5-80
-	android:name
-		ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:30:22-77
-uses-permission#android.permission.GET_ACCOUNTS
-ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:31:5-71
-	android:name
-		ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:31:22-68
-uses-permission#android.permission.USE_CREDENTIALS
-ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:32:5-74
-	android:name
-		ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:32:22-71
-uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
-ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:33:5-81
-	android:name
-		ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:33:22-78
+		ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:9:22-68
 application
-ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:35:5-149:19
+ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:11:5-59:19
+MERGED from [com.zhihu.android:matisse:0.5.2-beta4] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\matisse-0.5.2-beta4.aar\bc9ec67a87d0064c733742a3142e89c1\AndroidManifest.xml:27:5-31:19
+MERGED from [com.zhihu.android:matisse:0.5.2-beta4] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\matisse-0.5.2-beta4.aar\bc9ec67a87d0064c733742a3142e89c1\AndroidManifest.xml:27:5-31:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\09ae99e153a9da2a1e0ae43d3897426d\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\09ae99e153a9da2a1e0ae43d3897426d\AndroidManifest.xml:22:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\c7e71be3d02812f4957581c7eb1e7052\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\c7e71be3d02812f4957581c7eb1e7052\AndroidManifest.xml:10:5-20
+MERGED from [com.simple:spiderman:1.0.2] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\spiderman-1.0.2.aar\cb2ea48ab71e38a771755475a1c924da\AndroidManifest.xml:11:5-17:19
+MERGED from [com.simple:spiderman:1.0.2] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\spiderman-1.0.2.aar\cb2ea48ab71e38a771755475a1c924da\AndroidManifest.xml:11:5-17:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\5aafa75d72cca229cdb13af0e9332231\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\5aafa75d72cca229cdb13af0e9332231\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\dd65e19d76dc9bbf7d3f2bfe151ee3f9\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\dd65e19d76dc9bbf7d3f2bfe151ee3f9\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\6cb271ee0b8934a3cea2981f5eca8296\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\6cb271ee0b8934a3cea2981f5eca8296\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\dfe18500a4523054c8bb442344e93e95\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\dfe18500a4523054c8bb442344e93e95\AndroidManifest.xml:22:5-23:19
+MERGED from [it.sephiroth.android.library.imagezoom:library:1.0.4] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\library-1.0.4.aar\59aa7881ba2b002b323164b2f98bd8f8\AndroidManifest.xml:5:5-19
+MERGED from [it.sephiroth.android.library.imagezoom:library:1.0.4] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\library-1.0.4.aar\59aa7881ba2b002b323164b2f98bd8f8\AndroidManifest.xml:5:5-19
+MERGED from [it.sephiroth.android.library.easing:library:1.0.2] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\library-1.0.2.aar\e1c6ec3c1b059f725ace67e99a54f95c\AndroidManifest.xml:5:5-6:19
+MERGED from [it.sephiroth.android.library.easing:library:1.0.2] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\library-1.0.2.aar\e1c6ec3c1b059f725ace67e99a54f95c\AndroidManifest.xml:5:5-6:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\6cb271ee0b8934a3cea2981f5eca8296\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:16:9-35
 	android:label
-		ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:37:9-41
+		ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:15:9-41
 	android:icon
-		ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:36:9-42
-activity#net.micode.notes.ui.NotesListActivity
-ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:38:9-51:20
-	android:label
-		ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:41:13-45
-	android:launchMode
-		ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:42:13-43
-	android:windowSoftInputMode
-		ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:45:13-52
-	android:uiOptions
-		ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:44:13-57
-	android:configChanges
-		ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:40:13-74
+		ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:14:9-40
+	android:allowBackup
+		ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:13:9-35
 	android:theme
-		ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:43:13-45
+		ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:17:9-40
 	android:name
-		ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:39:13-49
+		ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:12:9-38
+activity#com.example.donxing.starnote.ui.MainActivity
+ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:18:9-27:20
+	android:label
+		ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:20:13-45
+	android:theme
+		ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:21:13-56
+	android:name
+		ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:19:13-44
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:47:13-50:29
+ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:22:13-26:29
 action#android.intent.action.MAIN
-ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:48:17-69
+ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:23:17-69
 	android:name
-		ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:48:25-66
+		ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:23:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:49:17-77
+ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:25:17-77
 	android:name
-		ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:49:27-74
-activity#net.micode.notes.ui.NoteEditActivity
-ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:53:9-81:20
-	android:launchMode
-		ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:56:13-43
-	android:configChanges
-		ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:55:13-74
+		ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:25:27-74
+activity#com.example.donxing.starnote.ui.NoteNewActivity
+ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:29:9-35:20
+	android:windowSoftInputMode
+		ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:32:13-55
 	android:theme
-		ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:57:13-45
+		ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:33:13-56
 	android:name
-		ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:54:13-48
-intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT+data:mimeType:vnd.android.cursor.item/call_note+data:mimeType:vnd.android.cursor.item/text_note
-ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:59:13-64:29
-category#android.intent.category.DEFAULT
-ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:61:17-76
-	android:name
-		ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:61:27-73
-data
-ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:62:17-78
-	android:mimeType
-		ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:62:23-75
-intent-filter#action:name:android.intent.action.INSERT_OR_EDIT+category:name:android.intent.category.DEFAULT+data:mimeType:vnd.android.cursor.item/call_note+data:mimeType:vnd.android.cursor.item/text_note
-ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:66:13-71:29
-action#android.intent.action.INSERT_OR_EDIT
-ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:67:17-79
-	android:name
-		ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:67:25-76
-intent-filter#action:name:android.intent.action.SEARCH+category:name:android.intent.category.DEFAULT
-ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:73:13-76:29
-action#android.intent.action.SEARCH
-ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:74:17-71
-	android:name
-		ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:74:25-68
-meta-data#android.app.searchable
-ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:78:13-80:54
-	android:resource
-		ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:80:17-51
-	android:name
-		ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:79:17-54
-provider#net.micode.notes.data.NotesProvider
-ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:83:9-86:43
-	android:authorities
-		ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:85:13-47
-	android:multiprocess
-		ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:86:13-40
-	android:name
-		ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:84:13-63
-receiver#net.micode.notes.widget.NoteWidgetProvider_2x
-ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:88:9-100:20
-	android:label
-		ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:90:13-50
-	android:name
-		ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:89:13-57
-intent-filter#action:name:android.appwidget.action.APPWIDGET_DELETED+action:name:android.appwidget.action.APPWIDGET_UPDATE+action:name:android.intent.action.PRIVACY_MODE_CHANGED
-ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:91:13-95:29
-action#android.appwidget.action.APPWIDGET_UPDATE
-ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:92:17-84
-	android:name
-		ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:92:25-81
-action#android.appwidget.action.APPWIDGET_DELETED
-ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:93:17-85
-	android:name
-		ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:93:25-82
-action#android.intent.action.PRIVACY_MODE_CHANGED
-ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:94:17-85
-	android:name
-		ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:94:25-82
-meta-data#android.appwidget.provider
-ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:97:13-99:58
-	android:resource
-		ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:99:17-55
-	android:name
-		ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:98:17-58
-receiver#net.micode.notes.widget.NoteWidgetProvider_4x
-ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:101:9-114:20
-	android:label
-		ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:103:13-50
-	android:name
-		ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:102:13-57
-receiver#net.micode.notes.ui.AlarmInitReceiver
-ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:116:9-120:20
-	android:name
-		ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:116:19-55
-intent-filter#action:name:android.intent.action.BOOT_COMPLETED
-ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:117:13-119:29
-action#android.intent.action.BOOT_COMPLETED
-ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:118:17-79
-	android:name
-		ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:118:25-76
-receiver#net.micode.notes.ui.AlarmReceiver
-ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:122:9-125:20
-	android:process
-		ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:124:13-38
-	android:name
-		ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:123:13-61
-activity#net.micode.notes.ui.AlarmAlertActivity
-ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:127:9-132:20
-	android:label
-		ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:129:13-45
-	android:launchMode
-		ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:130:13-48
+		ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:30:13-47
+activity#com.example.donxing.starnote.ui.NoteActivity
+ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:37:9-41:20
 	android:theme
-		ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:131:13-75
+		ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:39:13-56
 	android:name
-		ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:128:13-50
-activity#net.micode.notes.ui.NotesPreferenceActivity
-ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:134:9-139:20
-	android:label
-		ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:136:13-54
+		ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:38:13-44
+activity#com.example.donxing.starnote.ui.NoteVoiceActivity
+ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:42:9-45:20
+	android:name
+		ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:43:13-49
+activity#com.example.donxing.starnote.ui.AlarmAlertActivity
+ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:46:9-48:20
+	android:name
+		ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:46:19-56
+activity#com.example.donxing.starnote.ui.NoteDrawActivity
+ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:50:9-52:20
+	android:name
+		ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:50:19-54
+receiver#com.example.donxing.starnote.ui.AlarmReceiver
+ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:54:9-58:20
+	android:name
+		ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:54:19-51
+intent-filter#action:name:com.example.donxing.starnote.ui.AlarmReceiver
+ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:55:13-57:29
+action#com.example.donxing.starnote.ui.AlarmReceiver
+ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:56:17-89
+	android:name
+		ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:56:25-86
+uses-sdk
+INJECTED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml
+INJECTED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml
+MERGED from [com.zhihu.android:matisse:0.5.2-beta4] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\matisse-0.5.2-beta4.aar\bc9ec67a87d0064c733742a3142e89c1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.zhihu.android:matisse:0.5.2-beta4] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\matisse-0.5.2-beta4.aar\bc9ec67a87d0064c733742a3142e89c1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:design:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\09ae99e153a9da2a1e0ae43d3897426d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\09ae99e153a9da2a1e0ae43d3897426d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\0813133cc3d28f39b74212325fc6e5d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\0813133cc3d28f39b74212325fc6e5d9\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\c7e71be3d02812f4957581c7eb1e7052\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\c7e71be3d02812f4957581c7eb1e7052\AndroidManifest.xml:6:5-8:41
+MERGED from [com.simple:spiderman:1.0.2] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\spiderman-1.0.2.aar\cb2ea48ab71e38a771755475a1c924da\AndroidManifest.xml:7:5-9:41
+MERGED from [com.simple:spiderman:1.0.2] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\spiderman-1.0.2.aar\cb2ea48ab71e38a771755475a1c924da\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\5aafa75d72cca229cdb13af0e9332231\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\5aafa75d72cca229cdb13af0e9332231\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\dd65e19d76dc9bbf7d3f2bfe151ee3f9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\dd65e19d76dc9bbf7d3f2bfe151ee3f9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:transition:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\465705124080506488a75bdf77ff2fd8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\465705124080506488a75bdf77ff2fd8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\a62c774a1488488e18c3775271ef6b5b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\a62c774a1488488e18c3775271ef6b5b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\81186006cf9af63be4d39cb7e87ffe09\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\81186006cf9af63be4d39cb7e87ffe09\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\f4d13a454cf156ee5fab29e3dea073bb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\f4d13a454cf156ee5fab29e3dea073bb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\39a25453804e74edad2c50343d21ce8f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\39a25453804e74edad2c50343d21ce8f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\ee825d51cba78f427455053467a54878\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\ee825d51cba78f427455053467a54878\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\46807782f0701b69e705ca420e4e0fde\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\46807782f0701b69e705ca420e4e0fde\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\5caeb695349d405a42a6329bc431eec3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\5caeb695349d405a42a6329bc431eec3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\0f26533d213360ae997a5b07226fbc37\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\0f26533d213360ae997a5b07226fbc37\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\da64150da7ff5ecbe2670462414647a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\da64150da7ff5ecbe2670462414647a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\819b75d01048a64c8f40b6d9b8d6e1d3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\819b75d01048a64c8f40b6d9b8d6e1d3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\2bc1e2c82112e483e589a96bb46cb50e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\2bc1e2c82112e483e589a96bb46cb50e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\668c02733edf777b3d6ee3837340990a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\668c02733edf777b3d6ee3837340990a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\f9a7aafd6bf1643f8fe4355274ef12ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\f9a7aafd6bf1643f8fe4355274ef12ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\68505fb012d0b9a050f4040206f4f832\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\68505fb012d0b9a050f4040206f4f832\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\76e01ff1905887d36f547815772b967b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\76e01ff1905887d36f547815772b967b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\8e3bc8dc907651ebf206f2ed78a37ccf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\8e3bc8dc907651ebf206f2ed78a37ccf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\f3f91b0c685f86eceb4e96efb757a3cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\f3f91b0c685f86eceb4e96efb757a3cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\6cb271ee0b8934a3cea2981f5eca8296\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\6cb271ee0b8934a3cea2981f5eca8296\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\dfe18500a4523054c8bb442344e93e95\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\dfe18500a4523054c8bb442344e93e95\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\461f58d3f5ad0ecd847d5a5aec208713\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\461f58d3f5ad0ecd847d5a5aec208713\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\58973315b0b9f16f7b267aa07f9b8ab3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\58973315b0b9f16f7b267aa07f9b8ab3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\5aafdc2bea69ceca54fb549c9d127432\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\5aafdc2bea69ceca54fb549c9d127432\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\1d365c954a1df8748960d796a0d580ec\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\1d365c954a1df8748960d796a0d580ec\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\fe5961d915dee44e1558b006bf73e125\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\fe5961d915dee44e1558b006bf73e125\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\655b7a16967334fb793f1772c01b3fcb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\655b7a16967334fb793f1772c01b3fcb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\f450fce26cdd528b840b8396b72f7abb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\f450fce26cdd528b840b8396b72f7abb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\2ed0f31074ea8872cb9cadc53a6be27b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\2ed0f31074ea8872cb9cadc53a6be27b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\1ee1c86e9b9d9e673c9bdaa56c8caae4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\1ee1c86e9b9d9e673c9bdaa56c8caae4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\6929b8b55381c148ee318bdd16a4afd7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\6929b8b55381c148ee318bdd16a4afd7\AndroidManifest.xml:20:5-44
+MERGED from [it.sephiroth.android.library.imagezoom:library:1.0.4] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\library-1.0.4.aar\59aa7881ba2b002b323164b2f98bd8f8\AndroidManifest.xml:3:5-72
+MERGED from [it.sephiroth.android.library.imagezoom:library:1.0.4] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\library-1.0.4.aar\59aa7881ba2b002b323164b2f98bd8f8\AndroidManifest.xml:3:5-72
+MERGED from [it.sephiroth.android.library.easing:library:1.0.2] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\library-1.0.2.aar\e1c6ec3c1b059f725ace67e99a54f95c\AndroidManifest.xml:3:5-72
+MERGED from [it.sephiroth.android.library.easing:library:1.0.2] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\library-1.0.2.aar\e1c6ec3c1b059f725ace67e99a54f95c\AndroidManifest.xml:3:5-72
+INJECTED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml
+INJECTED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml
+		ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml
+		ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml
+activity#com.zhihu.matisse.ui.MatisseActivity
+ADDED from [com.zhihu.android:matisse:0.5.2-beta4] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\matisse-0.5.2-beta4.aar\bc9ec67a87d0064c733742a3142e89c1\AndroidManifest.xml:28:9-73
+	android:name
+		ADDED from [com.zhihu.android:matisse:0.5.2-beta4] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\matisse-0.5.2-beta4.aar\bc9ec67a87d0064c733742a3142e89c1\AndroidManifest.xml:28:19-70
+activity#com.zhihu.matisse.internal.ui.AlbumPreviewActivity
+ADDED from [com.zhihu.android:matisse:0.5.2-beta4] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\matisse-0.5.2-beta4.aar\bc9ec67a87d0064c733742a3142e89c1\AndroidManifest.xml:29:9-87
+	android:name
+		ADDED from [com.zhihu.android:matisse:0.5.2-beta4] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\matisse-0.5.2-beta4.aar\bc9ec67a87d0064c733742a3142e89c1\AndroidManifest.xml:29:19-84
+activity#com.zhihu.matisse.internal.ui.SelectedPreviewActivity
+ADDED from [com.zhihu.android:matisse:0.5.2-beta4] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\matisse-0.5.2-beta4.aar\bc9ec67a87d0064c733742a3142e89c1\AndroidManifest.xml:30:9-90
+	android:name
+		ADDED from [com.zhihu.android:matisse:0.5.2-beta4] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\matisse-0.5.2-beta4.aar\bc9ec67a87d0064c733742a3142e89c1\AndroidManifest.xml:30:19-87
+activity#com.simple.spiderman.CrashActivity
+ADDED from [com.simple:spiderman:1.0.2] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\spiderman-1.0.2.aar\cb2ea48ab71e38a771755475a1c924da\AndroidManifest.xml:12:9-16:20
 	android:launchMode
-		ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:137:13-43
+		ADDED from [com.simple:spiderman:1.0.2] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\spiderman-1.0.2.aar\cb2ea48ab71e38a771755475a1c924da\AndroidManifest.xml:14:13-48
 	android:theme
-		ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:138:13-60
+		ADDED from [com.simple:spiderman:1.0.2] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\spiderman-1.0.2.aar\cb2ea48ab71e38a771755475a1c924da\AndroidManifest.xml:15:13-44
 	android:name
-		ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:135:13-71
-service#net.micode.notes.gtask.remote.GTaskSyncService
-ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:141:9-144:19
-	android:exported
-		ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:143:13-37
-	android:name
-		ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:142:13-74
-meta-data#android.app.default_searchable
-ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:146:9-148:52
-	android:value
-		ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:148:13-49
-	android:name
-		ADDED from D:\Fight\Study\Android\after-Notes-master\Notes-master\app\src\main\AndroidManifest.xml:147:13-58
+		ADDED from [com.simple:spiderman:1.0.2] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\spiderman-1.0.2.aar\cb2ea48ab71e38a771755475a1c924da\AndroidManifest.xml:13:13-62
