@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:2:1-61:12
-INJECTED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:2:1-61:12
-INJECTED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:2:1-61:12
-INJECTED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:2:1-61:12
+ADDED from D:\Fight\Study\Android\_Note\New-MIUI-Note\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from D:\Fight\Study\Android\_Note\New-MIUI-Note\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from D:\Fight\Study\Android\_Note\New-MIUI-Note\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from D:\Fight\Study\Android\_Note\New-MIUI-Note\app\src\main\AndroidManifest.xml:2:1-61:12
 MERGED from [com.zhihu.android:matisse:0.5.2-beta4] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\matisse-0.5.2-beta4.aar\bc9ec67a87d0064c733742a3142e89c1\AndroidManifest.xml:17:1-33:12
 MERGED from [com.android.support:design:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\09ae99e153a9da2a1e0ae43d3897426d\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\0813133cc3d28f39b74212325fc6e5d9\AndroidManifest.xml:17:1-22:12
@@ -43,41 +43,41 @@ MERGED from [com.android.support:print:28.0.0] C:\Users\12829\.gradle\caches\tra
 MERGED from [com.android.support:interpolator:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\6929b8b55381c148ee318bdd16a4afd7\AndroidManifest.xml:17:1-22:12
 MERGED from [it.sephiroth.android.library.imagezoom:library:1.0.4] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\library-1.0.4.aar\59aa7881ba2b002b323164b2f98bd8f8\AndroidManifest.xml:1:106-7:12
 MERGED from [it.sephiroth.android.library.easing:library:1.0.2] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\library-1.0.2.aar\e1c6ec3c1b059f725ace67e99a54f95c\AndroidManifest.xml:1:116-8:12
-INJECTED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:2:1-61:12
-INJECTED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:2:1-61:12
-INJECTED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from D:\Fight\Study\Android\_Note\New-MIUI-Note\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from D:\Fight\Study\Android\_Note\New-MIUI-Note\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from D:\Fight\Study\Android\_Note\New-MIUI-Note\app\src\main\AndroidManifest.xml:2:1-61:12
 	package
-		ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:3:5-43
-		INJECTED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml
+		ADDED from D:\Fight\Study\Android\_Note\New-MIUI-Note\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from D:\Fight\Study\Android\_Note\New-MIUI-Note\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Fight\Study\Android\_Note\New-MIUI-Note\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml
-		ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:2:1-61:12
-		INJECTED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Fight\Study\Android\_Note\New-MIUI-Note\app\src\main\AndroidManifest.xml
+		ADDED from D:\Fight\Study\Android\_Note\New-MIUI-Note\app\src\main\AndroidManifest.xml:2:1-61:12
+		INJECTED from D:\Fight\Study\Android\_Note\New-MIUI-Note\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml
-		ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:2:1-61:12
-		INJECTED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Fight\Study\Android\_Note\New-MIUI-Note\app\src\main\AndroidManifest.xml
+		ADDED from D:\Fight\Study\Android\_Note\New-MIUI-Note\app\src\main\AndroidManifest.xml:2:1-61:12
+		INJECTED from D:\Fight\Study\Android\_Note\New-MIUI-Note\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\Fight\Study\Android\_Note\New-MIUI-Note\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:7:5-80
+ADDED from D:\Fight\Study\Android\_Note\New-MIUI-Note\app\src\main\AndroidManifest.xml:7:5-80
 MERGED from [com.zhihu.android:matisse:0.5.2-beta4] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\matisse-0.5.2-beta4.aar\bc9ec67a87d0064c733742a3142e89c1\AndroidManifest.xml:24:5-81
 MERGED from [com.zhihu.android:matisse:0.5.2-beta4] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\matisse-0.5.2-beta4.aar\bc9ec67a87d0064c733742a3142e89c1\AndroidManifest.xml:24:5-81
 	android:name
-		ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:7:22-78
+		ADDED from D:\Fight\Study\Android\_Note\New-MIUI-Note\app\src\main\AndroidManifest.xml:7:22-78
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:8:5-79
+ADDED from D:\Fight\Study\Android\_Note\New-MIUI-Note\app\src\main\AndroidManifest.xml:8:5-79
 MERGED from [com.zhihu.android:matisse:0.5.2-beta4] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\matisse-0.5.2-beta4.aar\bc9ec67a87d0064c733742a3142e89c1\AndroidManifest.xml:25:5-80
 MERGED from [com.zhihu.android:matisse:0.5.2-beta4] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\matisse-0.5.2-beta4.aar\bc9ec67a87d0064c733742a3142e89c1\AndroidManifest.xml:25:5-80
 	android:name
-		ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:8:22-77
+		ADDED from D:\Fight\Study\Android\_Note\New-MIUI-Note\app\src\main\AndroidManifest.xml:8:22-77
 uses-permission#android.permission.RECORD_AUDIO
-ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:9:5-70
+ADDED from D:\Fight\Study\Android\_Note\New-MIUI-Note\app\src\main\AndroidManifest.xml:9:5-70
 	android:name
-		ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:9:22-68
+		ADDED from D:\Fight\Study\Android\_Note\New-MIUI-Note\app\src\main\AndroidManifest.xml:9:22-68
 application
-ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:11:5-59:19
+ADDED from D:\Fight\Study\Android\_Note\New-MIUI-Note\app\src\main\AndroidManifest.xml:11:5-59:19
 MERGED from [com.zhihu.android:matisse:0.5.2-beta4] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\matisse-0.5.2-beta4.aar\bc9ec67a87d0064c733742a3142e89c1\AndroidManifest.xml:27:5-31:19
 MERGED from [com.zhihu.android:matisse:0.5.2-beta4] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\matisse-0.5.2-beta4.aar\bc9ec67a87d0064c733742a3142e89c1\AndroidManifest.xml:27:5-31:19
 MERGED from [com.android.support:design:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\09ae99e153a9da2a1e0ae43d3897426d\AndroidManifest.xml:22:5-20
@@ -101,75 +101,75 @@ MERGED from [it.sephiroth.android.library.easing:library:1.0.2] C:\Users\12829\.
 	android:appComponentFactory
 		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\6cb271ee0b8934a3cea2981f5eca8296\AndroidManifest.xml:22:18-91
 	android:supportsRtl
-		ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:16:9-35
+		ADDED from D:\Fight\Study\Android\_Note\New-MIUI-Note\app\src\main\AndroidManifest.xml:16:9-35
 	android:label
-		ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:15:9-41
+		ADDED from D:\Fight\Study\Android\_Note\New-MIUI-Note\app\src\main\AndroidManifest.xml:15:9-41
 	android:icon
-		ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:14:9-40
+		ADDED from D:\Fight\Study\Android\_Note\New-MIUI-Note\app\src\main\AndroidManifest.xml:14:9-40
 	android:allowBackup
-		ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:13:9-35
+		ADDED from D:\Fight\Study\Android\_Note\New-MIUI-Note\app\src\main\AndroidManifest.xml:13:9-35
 	android:theme
-		ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:17:9-40
+		ADDED from D:\Fight\Study\Android\_Note\New-MIUI-Note\app\src\main\AndroidManifest.xml:17:9-40
 	android:name
-		ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:12:9-38
+		ADDED from D:\Fight\Study\Android\_Note\New-MIUI-Note\app\src\main\AndroidManifest.xml:12:9-38
 activity#com.example.donxing.starnote.ui.MainActivity
-ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:18:9-27:20
+ADDED from D:\Fight\Study\Android\_Note\New-MIUI-Note\app\src\main\AndroidManifest.xml:18:9-27:20
 	android:label
-		ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:20:13-45
+		ADDED from D:\Fight\Study\Android\_Note\New-MIUI-Note\app\src\main\AndroidManifest.xml:20:13-45
 	android:theme
-		ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:21:13-56
+		ADDED from D:\Fight\Study\Android\_Note\New-MIUI-Note\app\src\main\AndroidManifest.xml:21:13-56
 	android:name
-		ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:19:13-44
+		ADDED from D:\Fight\Study\Android\_Note\New-MIUI-Note\app\src\main\AndroidManifest.xml:19:13-44
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:22:13-26:29
+ADDED from D:\Fight\Study\Android\_Note\New-MIUI-Note\app\src\main\AndroidManifest.xml:22:13-26:29
 action#android.intent.action.MAIN
-ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:23:17-69
+ADDED from D:\Fight\Study\Android\_Note\New-MIUI-Note\app\src\main\AndroidManifest.xml:23:17-69
 	android:name
-		ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:23:25-66
+		ADDED from D:\Fight\Study\Android\_Note\New-MIUI-Note\app\src\main\AndroidManifest.xml:23:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:25:17-77
+ADDED from D:\Fight\Study\Android\_Note\New-MIUI-Note\app\src\main\AndroidManifest.xml:25:17-77
 	android:name
-		ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:25:27-74
+		ADDED from D:\Fight\Study\Android\_Note\New-MIUI-Note\app\src\main\AndroidManifest.xml:25:27-74
 activity#com.example.donxing.starnote.ui.NoteNewActivity
-ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:29:9-35:20
+ADDED from D:\Fight\Study\Android\_Note\New-MIUI-Note\app\src\main\AndroidManifest.xml:29:9-35:20
 	android:windowSoftInputMode
-		ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:32:13-55
+		ADDED from D:\Fight\Study\Android\_Note\New-MIUI-Note\app\src\main\AndroidManifest.xml:32:13-55
 	android:theme
-		ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:33:13-56
+		ADDED from D:\Fight\Study\Android\_Note\New-MIUI-Note\app\src\main\AndroidManifest.xml:33:13-56
 	android:name
-		ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:30:13-47
+		ADDED from D:\Fight\Study\Android\_Note\New-MIUI-Note\app\src\main\AndroidManifest.xml:30:13-47
 activity#com.example.donxing.starnote.ui.NoteActivity
-ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:37:9-41:20
+ADDED from D:\Fight\Study\Android\_Note\New-MIUI-Note\app\src\main\AndroidManifest.xml:37:9-41:20
 	android:theme
-		ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:39:13-56
+		ADDED from D:\Fight\Study\Android\_Note\New-MIUI-Note\app\src\main\AndroidManifest.xml:39:13-56
 	android:name
-		ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:38:13-44
+		ADDED from D:\Fight\Study\Android\_Note\New-MIUI-Note\app\src\main\AndroidManifest.xml:38:13-44
 activity#com.example.donxing.starnote.ui.NoteVoiceActivity
-ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:42:9-45:20
+ADDED from D:\Fight\Study\Android\_Note\New-MIUI-Note\app\src\main\AndroidManifest.xml:42:9-45:20
 	android:name
-		ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:43:13-49
+		ADDED from D:\Fight\Study\Android\_Note\New-MIUI-Note\app\src\main\AndroidManifest.xml:43:13-49
 activity#com.example.donxing.starnote.ui.AlarmAlertActivity
-ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:46:9-48:20
+ADDED from D:\Fight\Study\Android\_Note\New-MIUI-Note\app\src\main\AndroidManifest.xml:46:9-48:20
 	android:name
-		ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:46:19-56
+		ADDED from D:\Fight\Study\Android\_Note\New-MIUI-Note\app\src\main\AndroidManifest.xml:46:19-56
 activity#com.example.donxing.starnote.ui.NoteDrawActivity
-ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:50:9-52:20
+ADDED from D:\Fight\Study\Android\_Note\New-MIUI-Note\app\src\main\AndroidManifest.xml:50:9-52:20
 	android:name
-		ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:50:19-54
+		ADDED from D:\Fight\Study\Android\_Note\New-MIUI-Note\app\src\main\AndroidManifest.xml:50:19-54
 receiver#com.example.donxing.starnote.ui.AlarmReceiver
-ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:54:9-58:20
+ADDED from D:\Fight\Study\Android\_Note\New-MIUI-Note\app\src\main\AndroidManifest.xml:54:9-58:20
 	android:name
-		ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:54:19-51
+		ADDED from D:\Fight\Study\Android\_Note\New-MIUI-Note\app\src\main\AndroidManifest.xml:54:19-51
 intent-filter#action:name:com.example.donxing.starnote.ui.AlarmReceiver
-ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:55:13-57:29
+ADDED from D:\Fight\Study\Android\_Note\New-MIUI-Note\app\src\main\AndroidManifest.xml:55:13-57:29
 action#com.example.donxing.starnote.ui.AlarmReceiver
-ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:56:17-89
+ADDED from D:\Fight\Study\Android\_Note\New-MIUI-Note\app\src\main\AndroidManifest.xml:56:17-89
 	android:name
-		ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml:56:25-86
+		ADDED from D:\Fight\Study\Android\_Note\New-MIUI-Note\app\src\main\AndroidManifest.xml:56:25-86
 uses-sdk
-INJECTED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml
-INJECTED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml
+INJECTED from D:\Fight\Study\Android\_Note\New-MIUI-Note\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Fight\Study\Android\_Note\New-MIUI-Note\app\src\main\AndroidManifest.xml
+INJECTED from D:\Fight\Study\Android\_Note\New-MIUI-Note\app\src\main\AndroidManifest.xml
 MERGED from [com.zhihu.android:matisse:0.5.2-beta4] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\matisse-0.5.2-beta4.aar\bc9ec67a87d0064c733742a3142e89c1\AndroidManifest.xml:20:5-22:41
 MERGED from [com.zhihu.android:matisse:0.5.2-beta4] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\matisse-0.5.2-beta4.aar\bc9ec67a87d0064c733742a3142e89c1\AndroidManifest.xml:20:5-22:41
 MERGED from [com.android.support:design:28.0.0] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\09ae99e153a9da2a1e0ae43d3897426d\AndroidManifest.xml:20:5-44
@@ -248,16 +248,16 @@ MERGED from [it.sephiroth.android.library.imagezoom:library:1.0.4] C:\Users\1282
 MERGED from [it.sephiroth.android.library.imagezoom:library:1.0.4] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\library-1.0.4.aar\59aa7881ba2b002b323164b2f98bd8f8\AndroidManifest.xml:3:5-72
 MERGED from [it.sephiroth.android.library.easing:library:1.0.2] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\library-1.0.2.aar\e1c6ec3c1b059f725ace67e99a54f95c\AndroidManifest.xml:3:5-72
 MERGED from [it.sephiroth.android.library.easing:library:1.0.2] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\library-1.0.2.aar\e1c6ec3c1b059f725ace67e99a54f95c\AndroidManifest.xml:3:5-72
-INJECTED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml
-INJECTED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml
+INJECTED from D:\Fight\Study\Android\_Note\New-MIUI-Note\app\src\main\AndroidManifest.xml
+INJECTED from D:\Fight\Study\Android\_Note\New-MIUI-Note\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml
-		ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Fight\Study\Android\_Note\New-MIUI-Note\app\src\main\AndroidManifest.xml
+		ADDED from D:\Fight\Study\Android\_Note\New-MIUI-Note\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Fight\Study\Android\_Note\New-MIUI-Note\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml
-		ADDED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Fight\Study\Android\StarNote\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Fight\Study\Android\_Note\New-MIUI-Note\app\src\main\AndroidManifest.xml
+		ADDED from D:\Fight\Study\Android\_Note\New-MIUI-Note\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Fight\Study\Android\_Note\New-MIUI-Note\app\src\main\AndroidManifest.xml
 activity#com.zhihu.matisse.ui.MatisseActivity
 ADDED from [com.zhihu.android:matisse:0.5.2-beta4] C:\Users\12829\.gradle\caches\transforms-1\files-1.1\matisse-0.5.2-beta4.aar\bc9ec67a87d0064c733742a3142e89c1\AndroidManifest.xml:28:9-73
 	android:name

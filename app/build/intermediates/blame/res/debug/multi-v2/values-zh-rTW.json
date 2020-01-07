@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Fight\\Study\\Android\\StarNote\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rTW\\values-zh-rTW.xml",
+            "outputFile": "D:\\Fight\\Study\\Android\\_Note\\New-MIUI-Note\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rTW\\values-zh-rTW.xml",
             "map": [
                 {
                     "source": "C:\\Users\\12829\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\0813133cc3d28f39b74212325fc6e5d9\\res\\values-zh-rTW\\values-zh-rTW.xml",
